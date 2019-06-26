@@ -1,0 +1,27 @@
+.cats-multiselect-dropdown {
+    label {
+    color: #6c757d;
+    }
+}
+
+.cats-job .cats-job-title, .cats-job .cats-job-category, .cats-job .cats-job-location {
+    color: inherit;
+}
+
+.cats-job-list h4::after {
+    content: '';
+    background-color: rgba(212, 212, 255, 0.1);
+    display: block;
+    height: 1px;
+    margin: 0.325em 0 0.5em 0;
+    width: 100%;
+}
+
+.cats-job-list h4 {
+    margin-top: 2em;
+}
+
+.cats-powered-by {
+    text-align: center;
+    color: rgba(212, 212, 255, 0.1);
+}

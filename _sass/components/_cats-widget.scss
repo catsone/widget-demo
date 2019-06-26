@@ -1,10 +1,18 @@
 .cats-multiselect-dropdown {
+    .cats-multiselect-option:hover {
+        label {
+            color: #6c757d;
+        }
+    }
+
     label {
-    color: #6c757d;
+        color: #fff;
     }
 }
 
-.cats-job .cats-job-title, .cats-job .cats-job-category, .cats-job .cats-job-location {
+.cats-job .cats-job-title,
+.cats-job .cats-job-category,
+.cats-job .cats-job-location {
     color: inherit;
 }
 

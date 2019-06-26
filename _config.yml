@@ -2,8 +2,8 @@ title: Atomic
 subtitle: Search Solutions
 email: 
 description: We bring people together.
-baseurl: ""
-url: 'https://catsone.github.io/widget-demo/'
+baseurl: "/widget-demo"
+url: 'https://catsone.github.io'
 author:
 street_address: 1234 Somewhere Road
 city: Nashville

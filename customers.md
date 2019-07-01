@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Where we operate</h2>
 		</header>
-		<p>With our diverse staff, we specialize in providing highly-qualified individuals for a wide variety of industries. We've had the privilege of working with top tier companies to place candidates in their dream jobs. We pride ourselves in establishing quality client relationships and value our candidates’ employment goals and objectives. We'd love to help you get the perfect person for whatever position you're looking for!</p>
+		<p>With our diverse staff, we specialize in providing highly-qualified individuals for a wide variety of industries. We've had the privilege of working with top tier companies to place candidates in their dream jobs. We pride ourselves in establishing quality client relationships and value our candidates’ employment goals and objectives. We'd love to help you find your perfect fit!</p>
 	</div>
 </section>
 
@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Healthcare</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                <p>For most healthcare companies, recruiting top talent is a major business challenge and priority. According to a recent report by <a href="http://www.healthcaresource.com/img/documents/hcs314-executive-insights-survey-whitepaper.pdf" target="_blank">HealthcareSource</a>, sixty-nine percent of healthcare organizations are concerned about competing with other healthcare providers for the same candidates. It's no surprise that many of them reach out to Atomic to improve their recruitment efforts.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>IT</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Our economy is becoming more and more dependent on technology, and any hiring manager or professional recruiter knows that finding, and hiring, talented tech candidates will only get more difficult. The demand for technical talent is higher than ever, and Atomic can help savvy businesses rise to the challenge.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -62,7 +62,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Remote</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>As the workforce increasingly moves away from traditional office settings, identifying and acquiring productive and responsible remote workers is more important than ever. We've placed hundreds of people in remote jobs around the world. Let us help you access the global workforce.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -77,7 +77,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Our Mission</h2>
 		</header>
-		<p>Our Mission is to consistently exceed customer expectations and provide the highest quality of candidates. As a locally owned and operated firm, we strive to improve the communities where our customers, and employees live and work.</p>
+		<p>Our Mission is to consistently exceed client expectations and to find high quality careers for high quality candidates. As a locally owned and operated firm, we strive to improve the communities where our clients, candidates, and employees live and work.</p>
 		<ul class="actions">
 			<li><a href="customers.html" class="button next">Get Started</a></li>
 		</ul>

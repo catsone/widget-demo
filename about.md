@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>IT</h3>
 				</header>
-				<p>Our economy is becoming more and more dependent on technology, and any hiring manager or professional recruiter knows that finding, and hiring, talented tech candidates will only get more difficult. The demand for technical talent is higher than ever, and Atomic can help savvy businesses rise to the challenge.</p>
+				<p>Our economy is becoming more and more dependent on technology, and any hiring manager knows that finding, and hiring, talented tech candidates will only get more difficult. The demand for technical talent is higher than ever, and Atomic can help savvy businesses rise to the challenge.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
